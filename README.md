@@ -7,7 +7,7 @@
 
 Desafio feito para colocar em prática os conhecimentos.
 
-[ 🔗 Clique aqui para acessar](https://vinnysoares12project.netlify.app)
+[ 🔗 Clique aqui para acessar](https://jordanshoesc.netlify.app)
 
 
 ## ⚒️ Tecnologias 
